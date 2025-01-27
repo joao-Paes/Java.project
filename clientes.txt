@@ -1,0 +1,6 @@
+12345678;joao;joao@gmail.com
+12345678;joao;joao@gmail.com
+12344556;Maria;maria@gmail.com
+12344556;Maria;maria@gmail.com
+12345678;joao;joao@gmail.com
+12345678;joao;joao@gmail.com
